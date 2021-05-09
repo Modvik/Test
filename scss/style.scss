@@ -1,0 +1,32 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.center {
+    padding-left: calc(50% - 160px);
+    padding-right: calc(50% - 160px);
+}
+
+.container {
+    width: 320px;
+    margin: 0 auto;
+}
+
+// @media (min-width: 1175px) {
+//     .center {
+//         padding-left: calc(50% - 384px);
+//         padding-right: calc(50% - 384px);
+//     }
+//     .container {
+//         width: 768px
+//     }
+// }
+// @media (min-width: 765px) {
+//     .center {
+//         padding-left: calc(50% - 160px);
+//         padding-right: calc(50% - 160px);
+//     }
+//     .container {
+//         width: 360px
+//     }
+// }
